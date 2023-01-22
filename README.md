@@ -1,18 +1,4 @@
-# Turret-with-OpenCV
-
-
-### Running Code:
-You need system administator privliages to run code using GPIO, ufortunatly there is no way (as of Jan 2023) to set p CodeBlocks to do this as such you will have to run the code from the terminal by navigating to the executable then running with sudo:
->cd /home/pi/[...directory to your project...]/bin/Debug
-
->sudo ./[project name]
-
-e.g.
->cd /home/pi/software/Turret/Turret/bin/Debug
-
->sudo ./Turret
-
-
+# Background:
 ## OpenCV:
 OpenCV is an open-source library for computer vision and machine learning. It provides a wide range of tools for image and video processing, including feature detection, object detection, and image segmentation. It also includes a number of machine learning algorithms for tasks such as classification and regression. OpenCV can be used in C++, Python, and Java and runs on a variety of platforms including Windows, Linux, and MacOS. It is widely used in both academia and industry for tasks such as image recognition, object tracking, and autonomous navigation.
 
@@ -30,3 +16,12 @@ A PID (Proportional-Integral-Derivative) control system is a control loop feedba
 A PID controller continuously calculates an error value as the difference between a desired setpoint and a measured process variable, and applies a correction based on proportional, integral, and derivative terms. These terms are used to adjust the control output in order to bring the process variable as close as possible to the setpoint.
 
 The proportional term (P) of the controller adjusts the control output in proportion to the error, which helps to bring the process variable closer to the setpoint. The integral term (I) of the controller helps to eliminate the residual error by accumulating the error over time and adjusting the control output accordingly. The derivative term (D) of the controller anticipates future errors by measuring the rate of change of the error and adjusting the control output accordingly.
+
+
+
+
+### Running Code:
+You need system administator privliages to run code using GPIO, ufortunatly there is no way (as of Jan 2023) to set p CodeBlocks to do this as such you will have to run the code from the terminal by navigating to the executable then running with sudo:
+>cd /home/pi/[...directory to your project...]/bin/Debug
+
+![Circuit Design](https://github.com/JasperWH/Turret-with-OpenCV/tree/main/Pictures/Command_Window1.png.PNG)
