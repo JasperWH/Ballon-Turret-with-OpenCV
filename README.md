@@ -2,7 +2,7 @@
 
 
 ### Running Code:
-As you can't use the GPIO pins when running the code straight from CodeBocks, you mus do it from the terminal with these commands. Navigate t the executable then run as system administrator (sudo)
+You need system administator privliages to run code using GPIO, ufortunatly there is no way (as of Jan 2023) to set p CodeBlocks to do this as such you will have to run the code from the terminal by navigating to the executable then running with sudo:
 >cd /home/pi/[...directory to your project...]/bin/Debug
 
 >sudo ./[project name]
