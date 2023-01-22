@@ -24,4 +24,4 @@ The proportional term (P) of the controller adjusts the control output in propor
 You need system administator privliages to run code using GPIO, ufortunatly there is no way (as of Jan 2023) to set p CodeBlocks to do this as such you will have to run the code from the terminal by navigating to the executable then running with sudo:
 >cd /home/pi/[...directory to your project...]/bin/Debug
 
-![Command Window1](https://github.com/JasperWH/Turret-with-OpenCV/tree/main/Pictures/Command_Window1.png)
+![Command Window1](https://github.com/JasperWH/Turret-with-OpenCV/tree/main/Pictures/Command_Window1.PNG)
