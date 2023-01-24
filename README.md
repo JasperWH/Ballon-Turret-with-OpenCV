@@ -27,3 +27,15 @@ You need system administator privliages to run code using GPIO, ufortunatly ther
 ![CommandWindow1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window1.png)
 
 ![CommandWindow](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window.png)
+
+![setup](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup.jpg)
+
+![setup1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup1.png)
+
+![setup2](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup2.png)
+
+![Thresholding](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Thresholding.png)
+
+![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
+
+![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Engagment.gif)
