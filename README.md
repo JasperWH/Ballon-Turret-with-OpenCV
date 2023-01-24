@@ -17,9 +17,26 @@ A PID controller continuously calculates an error value as the difference betwee
 
 The proportional term (P) of the controller adjusts the control output in proportion to the error, which helps to bring the process variable closer to the setpoint. The integral term (I) of the controller helps to eliminate the residual error by accumulating the error over time and adjusting the control output accordingly. The derivative term (D) of the controller anticipates future errors by measuring the rate of change of the error and adjusting the control output accordingly.
 
-# Hardware:
-![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
+# Implementation:
 
+# Hardware:
+- Raspberry Pi 4B (to run image processing you'll need a pi with god RAM)
+  - 5v USB power supply
+  - USB Mouse/Keyboard
+  - Cable to computer monitor   
+- V398 Missile Launcher
+- PT Pan/Tilt Servo Camera Mount and 2x Servos
+- Raspberry Pi Camera Module
+- NPN transistor
+- Diode
+- 10 ohm resistor
+- 560 ohm resistor
+- Jumper wires
+- Pin Headers
+
+
+![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
+![V398 Missile Launcher](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/V398 Missile Launcher.PNG)
 # Software:
 
 ### Setup:
