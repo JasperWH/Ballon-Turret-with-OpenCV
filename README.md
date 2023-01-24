@@ -25,3 +25,5 @@ You need system administator privliages to run code using GPIO, ufortunatly ther
 >cd /home/pi/[...directory to your project...]/bin/Debug
 
 ![CommandWindow1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window1.png)
+
+![CommandWindow](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window.png)
