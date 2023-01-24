@@ -43,7 +43,7 @@ Note this worked fine for me but it is generally recommended to power the servos
 
 Note the firing motor can be wire in any polarity as can the PTM switch. The PTM switch provides feeedback to the Pi that the motor has rotated and  the dart has been fired.
 
-The camera should be attached inline with the direct of fire of the missile launcher, with both attached to the servo mount.
+The camera should be attached inline with the direct of fire of the missile launcher, with both attached to the servo mount. (see picture at the end)
 
 # Software:
 
