@@ -50,7 +50,7 @@ The camera should be attached inline with the direct of fire of the missile laun
 # Software:
 
 ### Setup:
-Setting up OpenCV on the Raspberry Pi can be dificult, this is why I recommend using the SD image provided by Qengineering for a complete working Raspberry Pi 4 dedicated to deep learning: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html
+Setting up OpenCV on the Raspberry Pi can be dificult, this is why I recommend using the SD image provided by Qengineering for a complete working Raspberry Pi 4 dedicated to deep learning: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html (if you find this useful please donate to there work)
 
 This site will also give you a step by step guide for setup and goes deeper into image processing with object recognition.
 
