@@ -17,8 +17,15 @@ A PID controller continuously calculates an error value as the difference betwee
 
 The proportional term (P) of the controller adjusts the control output in proportion to the error, which helps to bring the process variable closer to the setpoint. The integral term (I) of the controller helps to eliminate the residual error by accumulating the error over time and adjusting the control output accordingly. The derivative term (D) of the controller anticipates future errors by measuring the rate of change of the error and adjusting the control output accordingly.
 
+# Hardware:
+![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
 
+# Software:
 
+### Setup:
+![setup1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup1.png)
+
+![setup2](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup2.png)
 
 ### Running Code:
 You need system administator privliages to run code using GPIO, ufortunatly there is no way (as of Jan 2023) to set p CodeBlocks to do this as such you will have to run the code from the terminal by navigating to the executable then running with sudo:
@@ -26,16 +33,12 @@ You need system administator privliages to run code using GPIO, ufortunatly ther
 
 ![CommandWindow1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window1.png)
 
-![CommandWindow](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window.png)
-
-![setup](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup.jpg)
-
-![setup1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup1.png)
-
-![setup2](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup2.png)
-
 ![Thresholding](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Thresholding.png)
 
-![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
+![CommandWindow](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Command_Window.png)
 
+
+# End Result:
 ![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Engagment.gif)
+
+![setup](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup.jpg)
