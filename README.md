@@ -49,7 +49,8 @@ Note the firing motor can be wire in any polarity as can the PTM switch. The PTM
 Setting up OpenCV on the Raspberry Pi can be dificult, this is why I recommend using the SD image provided by Qengineering for a complete working Raspberry Pi 4 dedicated to deep learning: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html
 This site will also give you a step by step guide for setup and goes deeper into image processing with object recognition.
 
-Along with the OpneCV library, this project also requires the pigpio library for operating the servos etc. as such to get this code to run, you should setup CodeBlocks as follow:
+Along with the OpneCV library, this project also requires the pigpio library for operating the servos etc. which you can download from here: https://abyz.me.uk/rpi/pigpio/
+To get the code to run in CodeBlocks you'll need to point to these libraries as follow (pointing to where ever you saved the library):
 
 ![setup1](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Setup1.png)
 
