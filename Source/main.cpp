@@ -4,7 +4,7 @@
 //Servo
 //---------------------------------------------------
 #include <pigpio.h>
-#define SERVO_V_PIN 14    // GPIO pin 14 vertical servo
+#define SERVO_V_PIN 17    // GPIO pin 17 vertical servo
 #define SERVO_H_PIN 4     // GPIO pin 4 Horizontal servo
 #define SERVO_OFF 0
 #define SERVO_VC_PW 2100  // vertical   Pulse Width max      clockwise = 2100
