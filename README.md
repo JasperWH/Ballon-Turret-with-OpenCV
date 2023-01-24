@@ -37,7 +37,7 @@ The proportional term (P) of the controller adjusts the control output in propor
 
 ![Turret_Circuit_Diagram](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/Turret_Circuit_Diagram.png)
 
-![V398 Missile Launcher](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/V398 Missile Launcher.PNG)
+![V398 Missile Launcher](https://github.com/JasperWH/Turret-with-OpenCV/blob/main/Pictures/V398_Missile_Launcher.PNG)
 # Software:
 
 ### Setup:
